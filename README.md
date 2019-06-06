@@ -37,7 +37,7 @@ Project Poster can be found in [CV-Poster-Final.pdf](CV-Poster-Final.pdf).
 
 - Feature Extraction: Extract texture information from HOG & LBP, Spatial information from SIFT & SURF and pixel information from grayscale image.
   
-  <div align="center"><img src="plots/feature_visualization.png" height='400px'/></div>
+  <div align="center"><img src="plots/feature_visualization.png" height='450px'/></div>
 
 - Preprocessing: Feature normalization by Min-Max and Z-score to bring features on a similar scale.
 - Dimensionality Reduction: PCA or LDA was applied to project the features with max separation. In PCA number of components were selected by plotting the variance over projected data.
