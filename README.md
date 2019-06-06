@@ -1,5 +1,7 @@
 # Quick-Draw
 
+<div align="center"><img src='demo.gif' width='700px'></div>
+
 ## Project Overview
 
 This project is done as a part of `Computer Vision` Course.
