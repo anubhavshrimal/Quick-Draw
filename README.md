@@ -18,7 +18,7 @@ Project Poster can be found in [CV-Poster-Final.pdf](CV-Poster-Final.pdf).
 
 ## Dataset
 
-<div align="center"><img src="plots/data_vis.png" height='350px'/></div>
+<div align="center"><img src="plots/data_vis.png" height='400px'/></div>
 
 - The Quick Draw dataset is a collection of millions of doodle drawings of 300+ categories. The drawings draw by the players were captured as 28 x 28 grayscale images in .npy format with respect to each category.
 - The complete dataset is huge (~73GB) and so we have used only a subset of the complete data (20 categories).
