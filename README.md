@@ -6,8 +6,6 @@
 
 This project is done as a part of `Computer Vision` Course.
 
-In this project our aim is to identify whether a cell is malaria infected or not. We show an in breadth & depth analysis of various features like **HOG, LBP, SIFT, SURF, pixel values** with feature reduction techniques **PCA, LDA** along with normalization techniques such as **z-score** and **min-max** over different classifiers such as **Naive Bayes, SVM XGBoost, Bagging, AdaBoost, K-Nearest Neighbors, Random Forests** and compare their performance by tuning different hyperparameters. We evaluate the performance of these classifiers on metrics such as **Accuracy, Precision, Recall, F1 score and ROC**.
-
 In Quick Draw the AI system tries to classify the hand-drawn doodle into a predetermined category. By this project we are trying to achieve the same using different feature extraction techniques like **HOG, LBP, SIFT, SURF, pixel values** with feature reduction techniques **PCA, LDA** and applying various classifiers such as **Naive Bayes, Random Forest, SVM, XGBoost, Bagging, ADA-boost, KNN and CNN** to compare their performance on different evaluation metric such as **Accuracy, MAP@3, CMC Curve and Confusion Matrix**.
 
 Project Poster can be found in [CV-Poster-Final.pdf](CV-Poster-Final.pdf).
